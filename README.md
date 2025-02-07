@@ -1,8 +1,17 @@
-# React + Vite
+# 📄 Draggable Document Card UI  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and interactive draggable document card UI built with **React, Tailwind CSS, and Framer Motion**.
 
-Currently, two official plugins are available:
+## 🚀 Features  
+✅ Draggable document cards with smooth animations  
+✅ File metadata display (description, file size, download status)  
+✅ Dynamic status tags (e.g., "Downloading", "Uploading")  
+✅ Stylish background and foreground separation for a clean UI  
+✅ Framer Motion integration for enhanced drag interactions  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- **React** – Component-based UI framework  
+- **Tailwind CSS** – Utility-first styling  
+- **Framer Motion** – Smooth animations and drag support  
+
+
